@@ -1,0 +1,7 @@
+participant_id,experience_years,domain,operational_interface_experience,ai_tool_familiarity,figma_make_familiarity,prompt_word_count_exact,prompt_word_count_approx,prompt_language,prompt_strategy,difficulty_brief_to_prompt,confidence_structural_differentiation,deliberate_pattern_avoidance
+P1,7,SaaS,yes_prior,4,3,95,120,pt,minimal_extraction,1,4,3
+P2,4,E-commerce,yes_prior,3,2,297,350,pt,contextual_specification,3,3,4
+P3,3.2,Web apps,yes_regular,5,1,2100,2500,en,exhaustive_specification,2,4,5
+P4,7,Consulting,yes_prior,3,4,38,40,pt,meta_description,4,4,1
+P5,4,Landing pages,none,1,1,235,200,pt,ai_delegated,3,1,1
+P6,3.5,Apps and websites,yes_prior,3,3,427,500,pt,structural_specification,2,4,3
